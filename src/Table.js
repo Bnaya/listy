@@ -4,7 +4,7 @@ import SampleData from './SampleData.js';
 
 // Which datasource
 var datasource_config = {
-  storage: 'sample2',
+  storage: 'sample',
   table: 'table1'
 }
 
